@@ -22,11 +22,11 @@ from telegram.utils.helpers import escape_markdown
 
 PM_START_TEXT = """
 Hi {}, my name is {}! 
-I am an Anime themed group management bot.
+I am an Tноя⚡™ group management bot.
 You can find my list of available commands with /help.
 
-[Saitama's Repo](github.com/AnimeKaizoku/SaitamaRobot) 
-See [Basic Configuration Checklist](t.me/OnePunchUpdates/29) on how to secure your group.
+[Saitama's Repo](github.com/foodiemartmumbai/SaitamaRobot) 
+See [Basic Configuration Checklist](https://t.me/thorgroupmanager) on how to secure your group.
 The support group chat is at {}.
 """
 
