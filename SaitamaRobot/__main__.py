@@ -25,7 +25,7 @@ Hi {}, my name is {}!
 I am an Tноя⚡™ group management bot.
 You can find my list of available commands with /help.
 
-[Saitama's Repo](github.com/foodiemartmumbai/SaitamaRobot) 
+[Tноя⚡™ Repo](github.com/foodiemartmumbai/SaitamaRobot) 
 See [Basic Configuration Checklist](https://t.me/thorgroupmanager) on how to secure your group.
 The support group chat is at {}.
 """
